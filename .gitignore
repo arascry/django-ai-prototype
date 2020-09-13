@@ -1,0 +1,6 @@
+# Secrets
+secret_settings.py
+
+# General
+*.pyc
+__pycache__/
